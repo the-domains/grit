@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[grit]]></title>
+        <description><![CDATA[grit]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 17:54:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brand Identity and Website Development]]></title>
+            <description><![CDATA[<article><h1>Brand Identity and Website Development</h1><p>Forces Money</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63afbbb5711f4ab4bfb2a98d36f36837a48c617a.png"></article>]]></description>
+            <link>undefinedbrand-identity-and-website-development/index.html</link>
+            <guid isPermaLink="false">b35d425c-d17b-4267-8ec4-10e6f755243e</guid>
+            <pubDate>Thu, 05 May 2016 17:53:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
